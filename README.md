@@ -3,10 +3,15 @@ Android 8.0 (API level 26) introduces a new feature, Fonts in XML, which lets yo
 ## Steps:
 # To add fonts as resources, perform the following steps in the Android Studio:
   1. Right-click the res folder and go to New > Android resource directory.
+  
       ![logo](https://github.com/mukesh4u/Font/raw/master/font1.png)
   2. The New Resource Directory window appears.
   3. In the Resource type list, select font, and then click OK.
+  
+  
       ![logo](https://github.com/mukesh4u/Font/raw/master/font2.png)
+      
+      
       ![logo](https://github.com/mukesh4u/Font/raw/master/font3.png)
 
 # Note: The name of the resource directory must be font.
