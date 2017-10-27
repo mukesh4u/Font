@@ -13,10 +13,6 @@
         android:padding="10dp"
         android:gravity="center"
         android:fontFamily="@font/pacifico"
-        android:textSize="20sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        android:textSize="20sp"/>
 
 </android.support.constraint.ConstraintLayout>
